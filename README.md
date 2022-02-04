@@ -1,2 +1,2 @@
-# labs_expansion_challenge
+# Laboratory Expansion Challenge
 The proposed challenge aims to help the business of a North American network of diagnostic medicine for the initial inputs for your project laboratory network expansion plan. It is known that it is not possible or very difficult to generate demand and make offers in this type of market, however it is very interesting and profitable customer loyalty so that they always visit the network when a need arises.
